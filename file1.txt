@@ -1,4 +1,10 @@
 tghgnhmnm nb m ,n,jhj,kj,hjk,mhj 
 gbvbvb vbvbn
 hbhdfbdf ygugfdeb
+<<<<<<< HEAD
 hghhb
+=======
+hghhb
+
+fgdgg
+>>>>>>> gitbranch1
